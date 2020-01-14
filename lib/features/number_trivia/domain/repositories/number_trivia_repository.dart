@@ -1,6 +1,6 @@
 import 'package:dartz/dartz.dart';
 
-import 'package:trivia_app/core/failure.dart';
+import 'package:trivia_app/core/error/failure.dart';
 import 'package:trivia_app/features/number_trivia/domain/entities/number_trivia.dart';
 
 
