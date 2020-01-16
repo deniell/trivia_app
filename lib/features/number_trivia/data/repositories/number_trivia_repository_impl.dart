@@ -1,7 +1,7 @@
 import 'package:dartz/dartz.dart';
 import 'package:meta/meta.dart';
 
-import 'package:trivia_app/core/platform/network_info.dart';
+import 'package:trivia_app/core/network/network_info.dart';
 import 'package:trivia_app/core/error/exception.dart';
 import 'package:trivia_app/features/number_trivia/data/datasources/number_trivia_local_data_source.dart';
 import 'package:trivia_app/features/number_trivia/data/datasources/number_trivia_remote_data_source.dart';
